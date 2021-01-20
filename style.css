@@ -1,0 +1,15 @@
+body {
+  position: relative;
+}
+
+#section1 { padding-top:70px;  padding-bottom:70px;  color: #32312E;  background-color: #d8f3dc;}
+#section2 { padding-top:70px;  padding-bottom:70px;  color: #32312E;  background-color: #95d5b2;}
+#section3 { padding-top:70px;  padding-bottom:70px;  color: #fff;  background-color: #52b788;}
+#section4 { padding-top:70px;  padding-bottom:70px;  color: #fff;  background-color: #1b4332;}
+#section51 { padding-top:70px;  padding-bottom:70px;  color: #fff;  background-color: #40916c;}
+#section52 { padding-top:70px;  padding-bottom:70px;  color: #fff;  background-color: #081c15;}
+
+.content{
+font-size: 1.2em;
+font-family: sans-serif;
+}
